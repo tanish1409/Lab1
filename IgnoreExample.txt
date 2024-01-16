@@ -1,0 +1,1 @@
+This is the ignore file and is going to be added to the .gitignore.
